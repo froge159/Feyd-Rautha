@@ -4,13 +4,10 @@
 
 @font-face {
     font-family: "Aurebesh-Bold";
-    src: url("/fonts/Aurebesh Bold.otf") format("truetype");
+    src: url("fonts/Aurebesh Bold.otf") format("truetype");
 }
 
-@font-face {
-    font-family: "Nasalization";
-    src: url("/fonts/nasalization-rg.otf") format("truetype");
-}
+
 
 #main {
     text-align: center;
